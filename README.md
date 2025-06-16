@@ -5,56 +5,35 @@
 1. Procesador: intel Core I9 14900ks iniciamos potente con este prosesador ya que su cantidad 24 nucleos son mas que suficientes a la hora de hacer analisis de datos ganimicos, procesamientos de datos y simulacion de sistemas biológicos
 praticamentes es el componetes mas importante para esta configuracion su precio es de $932 dolares.
 
-2. Memoria RAM:: Memoria Ram Dato Ddr5 32gb 5600mhz claramente a trabajar con gran cantidad de datos hay que poder manejarla de manera rapida y efectiva por eso dos unidades de memoria son necesaria para esto cono 64gb de no garatizamos que el procesador todo los datos necesarios al alcanze y su velocidad de 5600mhz hace que su trabajo sea rapido y en el menor tiempo posible su precio es de $140 dolares cada uno
+2. Memoria RAM:: Memoria Ram Dato Ddr5 32gb 5600mhz claramente a trabajar con gran cantidad de datos hay que poder manejarla de manera rapida y efectiva por eso dos unidades de memoria ram de 32 gb son necesaria para esto
+garantizando que el procesador tenga todo los datos necesarios al alcanze su precio es de $140 dolares cada uno.
 
-4. Fuente de alimentación: Corsair SF750 750 W 80+ Platinum Certified Fully Modular SFX - Esta fuente de alimentación certificada Platinum 80+ de
-750 Watts ofece una eficiencia energética alta y confiable. Además, proporciona
-suficiente suficiente potencia para alimentar los componentes del sistema. El
-precio promedo es de alrededor de $149.99 dólares.
+4. Unidad de almacenamiento: Kingston Ssd M.2 2tb Nv3 Pcie 4.0 obviamente hay que poder guardar esa cantidad de datos y estas tres unidade kimgton de dos terabyte basta y sobra para poder guardalo y su controlador NVMe hace que la carga
+los mismo dato sea rapida su precio es de $157 dolares cada uno.
 
-5. Refrigerador: Corsair iCUE H150i ELITE CAPELLIX XT 65.57 CFM Liquid CPU Cooler -
-Este refrigerador de CPU ofrece una excelente capacidad de enfriamiento a un precio
-asequible. Además su iluminación RGB añade un toque estético al sistema. EL precio
-promedio es de alrededor de $199.99 dólares.
+5. Tarjeta gráfica: Asrock Rx6600 8gb Gddr6 la verdad es que la tarjeta grafica no es tan necesaria para esta configuracion pero aun asi no se quiso dejarla fuera asi que se opto por una modesta pero potente amd radeom rx6600 mas que de
+sobra para ayudar al procesador en elgunos trabajos pesados y su alta compatibilidad con linux la hace perfecta ya que la mayoria de los programos utilizado para esta cconfiguracion son en base a linux su precio es de $474 dolares
 
-6. Ventiladores: Corsair LL120 43.25 CFM 120 mm Fan. Lian Li UNI FAN SL V2 64.5 CFM 120 mm Fans 3-Pack - Estos
-ventiladores RGB de 120 mm son silenciosos y proporcionan un buen flujo de aire para
-mantener el sistema refrigerado. Recomendaría tener al menos tres de estos ventiladores
-para una buena circulación de aire. EL precio promedio es de alrededor $38.99 y $82.90 dólares respectivamente.
+7. Disipador: cypus Delta A62 Argb claramente el prosesador al llevarse la mayor parte del trabajo necesita algo de refrigeracion no tanto como una refigeracion liquida ya que no trabaja con 3d pesado pero si una para uso continuo y
+este Ocypus Delta A62 Argb de Doble Ventilador brinda un optimo redimiento en refrigeracion para ello, su precio esta en uno $60 dolares
 
-7. Chasis: NZXT H9 Flow ATX Mid Tower Case - Este chasis es elegante y cuenta con una buena administración de cables,
-una ventana lateral de vidrio templado y un buen flujo de aire. Además, tiene un precio
-razonable. EL precio promedio es de alrededor $159.99 dólares.
+8. Placa Madre: Gigabyte Z790 Eagle Ax para todo estos componentes se necesita un lugar compatible para conectarlo y esta z790 atx cumple con todo los requisito necesario un socket lga 1700 compatible con el procesador compatibilidad
+con  PCIe 4.0 para la tarjeta grafica y 3 ranura m.2 para los ssd lo hace perfecto para esta configuracion su precio es de $199 dolares
 
-8. Pasta térmica: Thermal Grizzly Hydronaut 3.9 g - Esta pasta térmica es ampliamente reconocida por su alta
-conductividad térmica y facilidad de aplicación. El precio promedio es de alrededor de
-$10.43 dólares.
+9. Chasis: Jemip 9108C-THEHIDER un case sencillo y grande para todos los componetes de la pc con compatibilidad con atx para la placa madre y viene con cuatro ventiladores incluidos su precio es de $106.25 dolares 
 
-9. Placa madre: Asus ROG STRIX B650E-F GAMING WIFI ATX AM5 Motherboard - Esta placa madre ofrece una exelente calidad de construcción, soporte
-para procesadores de última generación y una amplia gama de características para los gamers.
-El precio promedio es de alrededor de $299.99 dólares.
+10. Fuente de Alimentación: Cooler Master 850w Atx 80+ Gold y por ultimo pero no menos importante nuestra fuentes de poder con su 850w obtenemos suficiente energia para nuestros componentes y ademas que la marcar cooler master se caracteriza por sus productos de calidad, su precio es de $177 dolares
 
-10. Procesador: AMD Ryzen 9 7900X 4.7 GHz 12-Core Processor - Este procesador de 12 núcleos y 24 hilos es excelente para juegos
-y tareas multiarea intensivas. Ofrece un alto rendimiento y una arquitectura de última
-generación. EL precio promedio es de alrededor de $432.00 dólares.
-
-11. Tarjeta gráfica: XFX Speedster MERC 310 Black Edition Radeon RX 7900 XT 20 GB Video Card - Esta
-tarjeta gráfica ofrece un excelente rendimiento en juegos y soporta tecnologías de trazado
-de rayos. Es una opción sólida para juegos de alta calidad visual. El precio promedio es
-de alrededor de $779.99 dólares.
 
 |Componentes|Precio|Link|
-|-----------|------|----|
+|--------------|--------|------|
 | intel Core I9 14900ks|$730|https://articulo.mercadolibre.com.ve/MLV-828499950-procesador-core-i9-14900ks-socket-1700-_JM#polycard_client=search-nordic&position=1&search_layout=grid&type=item&tracking_id=f210aad3-157f-4cae-a9ff-f26c215082e9&wid=MLV828499950&sid=search|
 |Memoria Ram Ddr5 U-dimm 32gb 5600mhz Dato|2x$140|https://articulo.mercadolibre.com.ve/MLV-815698490-memoria-ram-ddr5-u-dimm-32gb-pc-5600-dato-_JM#polycard_client=search-nordic&position=3&search_layout=grid&type=item&tracking_id=f4352d4e-c02f-4265-ad1a-6dd9aa7c6088&wid=MLV815698490&sid=search|
-|Corsair SF750 750 W 80+ Platinum Certified Fully Modular SFX |$149.99|https://www.amazon.com/dp/B07M63H81H?tag=pcpapi-20&linkCode=ogi&th=1&psc=1|
-|Corsair iCUE H150i ELITE CAPELLIX XT 65.57 CFM Liquid CPU Cooler|$199.99|https://www.amazon.com/dp/B0BQJ6QL7L?tag=pcpapi-20&linkCode=ogi&th=1&psc=1|
-|Corsair LL120 43.25 CFM 120 mm Fan|$38.99|https://www.amazon.com/dp/B075VDGSJ8?tag=pcpapi-20&linkCode=ogi&th=1&psc=1|
-|Lian Li UNI FAN SL V2 64.5 CFM 120 mm Fans 3-Pack|$82.90|https://www.amazon.com/dp/B0BLSNX7R9?tag=pcpapi-20&linkCode=ogi&th=1&psc=1|
-|NZXT H9 Flow ATX Mid Tower Case|$159.99|https://www.amazon.com/dp/B0BFZZ3ZWZ?tag=pcpapi-20&linkCode=ogi&th=1&psc=1|
-|Thermal Grizzly Hydronaut 3.9 g| $10.43|https://www.amazon.com/dp/B00ZJSXE2Y?tag=pcpapi-20&linkCode=ogi&th=1|
-|Asus ROG STRIX B650E-F GAMING WIFI ATX AM5 Motherboard|$299.99|https://www.amazon.com/dp/B0BHMTYZKZ?tag=pcpapi-20&linkCode=ogi&th=1&psc=1 |
-|AMD Ryzen 9 7900X 4.7 GHz 12-Core Processor|$432.00|https://www.amazon.com/dp/B0BBJ59WJ4?tag=pcpapi-20&linkCode=ogi&th=1&psc=1 |
-|XFX Speedster MERC 310 Black Edition Radeon RX 7900 XT 20 GB Video Card|$779.99|https://www.amazon.com/dp/B0BNLSZDCX?tag=pcpapi-20&linkCode=ogi&th=1&psc=1|
-|TOTAL|$2499.25||
+|Ssd M.2 2tb Nv3 Pcie 4.0 6000mb/s Kingston|3x$157|https://articulo.mercadolibre.com.ve/MLV-826370112-disco-duro-solido-ssd-m2-2tb-nv3-pcie-40-6000mbs-kingston-_JM?searchVariation=186876519611#polycard_client=search-nordic&searchVariation=186876519611&position=10&search_layout=grid&type=item&tracking_id=7d277191-f3a5-4997-a993-74167e445d60|
+|Asrock Rx6600 8gb Gddr6|$474|https://articulo.mercadolibre.com.ve/MLV-825068210-tarjeta-de-video-asrock-rx6600-8gb-gddr6-_JM#polycard_client=search-nordic&position=6&search_layout=grid&type=item&tracking_id=5c86c85a-d833-4454-ab2c-40703a1857c2&wid=MLV825068210&sid=search|
+|Ocypus Delta A62 Argb|$60|https://articulo.mercadolibre.com.ve/MLV-846504560-disipador-de-calor-ocypus-delta-a62-argb-doble-ventilador-_JM?searchVariation=183625245718#polycard_client=search-nordic&searchVariation=183625245718&position=12&search_layout=grid&type=item&tracking_id=d76f38b0-5257-4b47-b195-02e0570e79df|
+|Gigabyte Z790 Eagle Ax|$199|https://articulo.mercadolibre.com.ve/MLV-822497478-gigabyte-z790-eagle-ax-lga-1700-atx-ddr5wifi6em2-_JM?searchVariation=182743328916#polycard_client=search-nordic&searchVariation=182743328916&position=20&search_layout=stack&type=item&tracking_id=acb23aa3-5a23-41a3-a5d6-3f05ea38805ctracking_id=d76f38b0-5257-4b47-b195-02e0570e79df|
+|Jemip 9108C-THEHIDER|$106.25|https://articulo.mercadolibre.com.ve/MLV-768154105-case-pc-gaming-jemip-4-fan-argb-controlador-atx-_JM#polycard_client=recommendations_vip-v2p&reco_backend=retrieval-v2p&reco_model=rk_ent_v3_retsys_org&reco_client=vip-v2p&reco_item_pos=22&reco_backend_type=low_level&reco_id=6afbf6d5-7f09-4de4-80cc-36e11de5b082|
+|Cooler Master 850w Atx 80+ Gold Full Modular|$177|https://articulo.mercadolibre.com.ve/MLV-800715556-fuente-de-poder-cooler-master-850w-atx-80-gol-full-modular-_JM#polycard_client=recommendations_vip-seller_items-above&reco_backend=ranker-retsys-same-seller&reco_model=rk_entity_sameseller&reco_client=vip-seller_items-above&reco_item_pos=2&reco_backend_type=low_level&reco_id=0c078e1f-53e5-4b38-8f0f-c7d49545cf92|
+|TOTAL|$2497.25||
 
