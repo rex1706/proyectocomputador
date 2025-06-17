@@ -3,7 +3,7 @@
 # Computadora para biologia computacional y bioinformatica ($2500)
 
 1. Procesador: intel Core I9 14900ks iniciamos potente con este prosesador ya que su cantidad 24 nucleos son mas que suficientes a la hora de hacer analisis de datos ganimicos, procesamientos de datos y simulacion de sistemas biológicos
-praticamentes es el componetes mas importante para esta configuracion su precio es de $932 dolares.
+praticamentes es el componetes mas importante para esta configuracion su precio es de $730 dolares.
 
 2. Memoria RAM:: Memoria Ram Dato Ddr5 32gb 5600mhz claramente a trabajar con gran cantidad de datos hay que poder manejarla de manera rapida y efectiva por eso dos unidades de memoria ram de 32 gb son necesaria para esto
 garantizando que el procesador tenga todo los datos necesarios al alcanze su precio es de $140 dolares cada uno.
